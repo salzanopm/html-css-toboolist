@@ -32,21 +32,22 @@ body {
 }
 
 /* MAIN */
-.container {
-    margin: 0px;
-    padding: 0px;
-}
-
 .main-container {
     background-color: white;
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 3px;
-    padding: 10px;
     border-radius: 5px;
 }
+/* contenitore pulsanti azione */
+.actions {
+    border-bottom: solid;
+    border-color: #f6f8f9;
+    padding: 10px;          
+}
 
-/* caratteristiche bottoni */
+/* caratteristiche pulsanti */
 .button-nav{
     padding: 10px;
     border-radius: 10px;
@@ -103,6 +104,12 @@ body {
 
 .nav-text-grey {
     color: #d7dbde;
+}
+
+/* contenitore lista */
+.list-section{
+    margin-top: 30px;
+    padding: 30px;
 }
 
 /* stili lista */
