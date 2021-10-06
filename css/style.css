@@ -105,12 +105,6 @@ body {
     color: #d7dbde;
 }
 
-/* HR */
-hr{
-    color: #f6f8f9;
-    height: 5px;
-}
-
 /* stili lista */
 .list {
     list-style-type: none;
